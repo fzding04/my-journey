@@ -2,4 +2,5 @@
 {"dg-publish":true,"permalink":"/homepage/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-hello world
+This is just a record of my journey.
+
