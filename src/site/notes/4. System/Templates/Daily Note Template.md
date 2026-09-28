@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-system/templates/daily-note-template/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/4-system/templates/daily-note-template/","title":"<% tp.date.now(\"dddd, MMMM Do YYYY\", 0, tp.file.title, \"YYYY-MM-DD\") %>","dg-note-properties":{"title":"<% tp.date.now(\"dddd, MMMM Do YYYY\", 0, tp.file.title, \"YYYY-MM-DD\") %>"}}
 ---
 
 <h1 style="text-align: center;">
