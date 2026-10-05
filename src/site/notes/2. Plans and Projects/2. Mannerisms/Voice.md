@@ -16,3 +16,5 @@ https://www.youtube.com/watch?v=BfCS01MkbIY - youtube video seems good but idk
 
 
 
+##### Components of the voice generation that can be modified?
+
