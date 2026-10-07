@@ -3,8 +3,16 @@
 ---
 
 
+--- start-multi-column: Region 2  
+```column-settings  
+number of columns: 1
+```
 
---- start-multi-column: ExampleRegion1  
+# [[2. Plans and Projects/STUFF I WANT\|STUFF I WANT]]
+
+--- end-multi-column
+
+--- start-multi-column: Region1  
 ```column-settings  
 number of columns: 2  
 ```
@@ -14,6 +22,7 @@ number of columns: 2
 - ### [[2. Plans and Projects/1. Appearance/Hair\|Hair]]
 - ### [[2. Plans and Projects/1. Appearance/Make-Up\|Make-Up]]
 - ### [[2. Plans and Projects/1. Appearance/Fashion\|Fashion]]
+- ### [[2. Plans and Projects/1. Appearance/Skincare\|Skincare]]
 <br>
 
 --- end-column ---
@@ -24,5 +33,6 @@ number of columns: 2
 
 
 --- end-multi-column
+
 
 
