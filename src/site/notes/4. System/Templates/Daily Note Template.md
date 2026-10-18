@@ -8,3 +8,22 @@
 </h1>
 
 
+
+
+
+
+
+
+
+%%
+### Logistics
+
+###### Habits
+- Shaving::
+- Posture::
+###### Measurements
+- Shoulders::
+- Bust::
+- Waist::
+- Hips::
+- Weight::
