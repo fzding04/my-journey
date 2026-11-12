@@ -7,8 +7,7 @@
 - tank tops
 - bras
 - booty shorts
-- garters and/or garter belts
-- sexy stockings
+- longer sexy stockings
 - corset-y thing
 - fem shirts
 - smarter skirts

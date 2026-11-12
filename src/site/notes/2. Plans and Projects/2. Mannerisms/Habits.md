@@ -1,16 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/2-plans-and-projects/2-mannerisms/habits/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/2-plans-and-projects/2-mannerisms/habits/","dg-note-properties":{"cssclasses":["hide-dv-count"]}}
 ---
 
-| File                                                | Shaving                         |
-| --------------------------------------------------- | ------------------------------- |
-| [[1. Journaling/2026-10/2026-10-09\|2026-10-09]] | NS1                             |
-| [[1. Journaling/2026-10/2026-10-11\|2026-10-11]] | NS 3                            |
-| [[1. Journaling/2026-10/2026-10-10\|2026-10-10]] | NS 2                            |
-| [[1. Journaling/2026-10/2026-10-12\|2026-10-12]] | NS 4?                           |
-| [[1. Journaling/2026-10/2026-10-13\|2026-10-13]] | NS 5?                           |
-| [[1. Journaling/2026-10/2026-10-16\|2026-10-16]] | Full shave today                |
-| [[1. Journaling/2026-10/2026-10-15\|2026-10-15]] | Shaved with the grain for pubes |
-
-{ .block-language-dataview}
+<div><table class="dataview table-view-table habit-transposed-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span><strong>Habit</strong></span><span class="dataview small-text">4</span></th><th class="table-view-th"><span><a data-href="2026-11-11" href="2026-11-11" class="internal-link" target="_blank" rel="noopener nofollow">2026-11-11</a></span></th><th class="table-view-th"><span><a data-href="2026-11-09" href="2026-11-09" class="internal-link" target="_blank" rel="noopener nofollow">2026-11-09</a></span></th><th class="table-view-th"><span><a data-href="2026-10-16" href="2026-10-16" class="internal-link" target="_blank" rel="noopener nofollow">2026-10-16</a></span></th><th class="table-view-th"><span><a data-href="2026-10-15" href="2026-10-15" class="internal-link" target="_blank" rel="noopener nofollow">2026-10-15</a></span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><strong>Studying</strong></span></td><td><span>Got my shi together</span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span><strong>Shaving</strong></span></td><td><span></span></td><td><span>Whole body was very therapeutic</span></td><td><span>Full shave today</span></td><td><span>Shaved with the grain for pubes</span></td></tr><tr><td><span><strong>Exercise</strong></span></td><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span><strong>Voice Training</strong></span></td><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr></tbody></table></div>
 
